@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-openai
+openai
+weaviate-client
+python-dotenv>=0.0.5
