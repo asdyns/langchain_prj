@@ -4,3 +4,4 @@ langchain-openai
 openai
 weaviate-client
 python-dotenv>=0.0.5
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
